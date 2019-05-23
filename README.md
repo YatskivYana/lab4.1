@@ -1,2 +1,3 @@
 # Lab4
-![Vsyo propalo](screenshot)
+Це всьо Ігоря, я в нього взял
+![Vsyo propalo](screenshot.png)
